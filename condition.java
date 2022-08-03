@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class codition {
+ class kk {
 
         public static void main(String args[]){
             Scanner sc=new Scanner (System.in);
